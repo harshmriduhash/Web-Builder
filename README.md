@@ -74,11 +74,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 #### Reference Images
 
 ![DB_Schema](./public/db_schema.png)
-
-#### Useful resources
-
--
-
-Made by [Noor Muhammad](https://www.linkedin.com/in/connectwithnoor)
-
-2:42
